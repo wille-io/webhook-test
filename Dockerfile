@@ -1,4 +1,4 @@
 FROM ubuntu
 RUN echo "moin!"
-RUN sleep 10
+RUN sleep 2
 RUN echo "done"
